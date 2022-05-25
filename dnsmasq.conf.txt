@@ -1,0 +1,6 @@
+domain=belozerova.com
+interface=eth1
+dchp-range=192.168.03.21.192.168.03.100.24h
+dchp-host=80:00:27:14:45:79,192:168:03:10
+dhcp-option=2,255.255.255.0
+dhcp-option=3,192.168.03.20/24
